@@ -1,2 +1,3 @@
 # Portifolio
-Repositório para o portifólio de front-end
+Repositório para armazenamento do portifólio de desenvolvimento front-end com foco em Html, Css, JavaScript e Angular.
+
